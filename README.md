@@ -7,5 +7,5 @@
 - 💬 Ask me about ... lambda, api gateway, dynamodb
 - 📫 How to reach me: ... jepoycerujano@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... i am 2nd year student of MIT at Polytechnic University of the Philippines
+- ⚡ Fun fact: ... i am 2nd year MIT student at Polytechnic University of the Philippines
 
